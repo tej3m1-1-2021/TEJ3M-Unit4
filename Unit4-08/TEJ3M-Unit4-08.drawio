@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="xWOQL9HXE-SlFoUKbojC" name="Page-1">
-        <mxGraphModel dx="255" dy="191" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="247" dy="185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -89,7 +89,7 @@
                     <mxGeometry x="415" y="260" width="100" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="25" value="4.7 K Ω" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-                    <mxGeometry x="425" y="280" width="50" height="20" as="geometry"/>
+                    <mxGeometry x="435" y="280" width="50" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="39" value="Input A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
                     <mxGeometry x="490" y="215" width="80" height="30" as="geometry"/>
@@ -114,7 +114,7 @@
                     <mxGeometry x="515" y="352" width="75" height="26" as="geometry"/>
                 </mxCell>
                 <mxCell id="50" value="4.7 K Ω" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-                    <mxGeometry x="425" y="385" width="50" height="20" as="geometry"/>
+                    <mxGeometry x="435" y="385" width="50" height="20" as="geometry"/>
                 </mxCell>
                 <mxCell id="51" value="Input B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
                     <mxGeometry x="490" y="320" width="80" height="30" as="geometry"/>
